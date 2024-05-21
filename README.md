@@ -15,3 +15,8 @@ Neste tutorial você irá aprender como configurar e interpretar os resultados d
 
 Nunca mais entregue código não performático por falta de ferramenta de teste!
 
+## Informações adicionais
+
+Devido às limitações do GitHub para arquivos maiores que 100MB, foi compactado o arquivo utilizado em aula para o formato ZIP e assim facilitar o compartilhamento. dessa forma, você poderá utilizar e testar o projeto exatamente como abordamos na aula.
+
+Bons estudos!
